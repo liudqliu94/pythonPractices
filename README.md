@@ -1,0 +1,1 @@
+Initial, records for learning Django Doc, see https://docs.djangoproject.com/en/3.0/
